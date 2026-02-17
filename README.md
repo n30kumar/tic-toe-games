@@ -1,3 +1,14 @@
+
+<img width="689" height="759" alt="image" src="https://github.com/user-attachments/assets/6c8b1196-926c-4640-b8bc-fe1317c6c3e1" />
+
+
+
+
+
+
+
+
+
 Tic-Tac-Toe Games is a compact React + Vite project that demonstrates interactive game logic, component design, and responsive UI. Run the app locally with your preferred package manager and explore the simple, extendable codebase starting at src/App.jsx. Great as a learning project or a small playable demo.
 
 Closing / Usage tips
